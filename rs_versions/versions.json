@@ -17,5 +17,9 @@
   {
     "script": "Advanced_Burgershot",
     "version": "2.1.0"
+  },
+  {
+    "script": "Advanced_Banking",
+    "version": "1.2.0"
   }
 ]
